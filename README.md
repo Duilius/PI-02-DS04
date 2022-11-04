@@ -52,6 +52,8 @@ Procedimos a eliminar las columnas que presentan altísima cantidad de valores n
 
 A tono con la profesión o campo que nos ocupa, desde el inicio se consideró la implementación de un Pipeline y lo logramos !
 
+![PIPELINE-DUILIUS](https://user-images.githubusercontent.com/104642248/200047276-65bd1797-8625-41bc-a2ae-90e48672d0c0.jpg)
+
 
 
 
