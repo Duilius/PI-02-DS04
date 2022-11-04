@@ -55,5 +55,8 @@ A tono con la profesión o campo que nos ocupa, desde el inicio se consideró la
 ![PIPELINE-DUILIUS](https://user-images.githubusercontent.com/104642248/200047276-65bd1797-8625-41bc-a2ae-90e48672d0c0.jpg)
 
 
+En cuanto al resultado de predicciones, el procedimiento esta por afinar:
+
+![MATRIZ](https://user-images.githubusercontent.com/104642248/200047601-174dcde8-5331-4aa2-b6fd-2a83598b8db1.jpg)
 
 
