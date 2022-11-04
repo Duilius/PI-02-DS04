@@ -59,4 +59,7 @@ En cuanto al resultado de predicciones, el procedimiento esta por afinar:
 
 ![MATRIZ](https://user-images.githubusercontent.com/104642248/200047601-174dcde8-5331-4aa2-b6fd-2a83598b8db1.jpg)
 
+Gracias por tu atención !
+
+![ProfeDuilio-25](https://user-images.githubusercontent.com/104642248/200047984-4bc49696-18da-48da-abd5-99a28333d467.jpg)
 
