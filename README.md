@@ -48,4 +48,10 @@ Procedimos a eliminar las columnas que presentan altísima cantidad de valores n
 ![This is an image](https://github.com/Duilius/PI-02-DS04/blob/main/nulos-duplicados.jpg)
 
 
+## Machine Learning ! (por fin 👍)
+
+A tono con la profesión o campo que nos ocupa, desde el inicio se consideró la implementación de un Pipeline y lo logramos !
+
+
+
 
