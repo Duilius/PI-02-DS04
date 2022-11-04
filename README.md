@@ -24,7 +24,7 @@ Esta información puede ir encausando el trabajo y permite oragnizar y priorizar
 En ese sentido, se trabajó en la pronta depuración de columnas innecesarias a fin de hacer el trabajo más ágil, ya que la demanda de recursos (espacio y memoria) son
 altos.
 
-#Eliminación de Columnas:
+# Eliminación de Columnas:
 Son evidentemente innecesarios, campos como "país", "moneda", etc..., cuando son los únicos entre miles.
   
 
